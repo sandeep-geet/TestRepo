@@ -1,1 +1,1 @@
-print ("This is my new python file in GitHub")
+print("This is my new python file in GitHub")
