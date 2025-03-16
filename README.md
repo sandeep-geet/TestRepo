@@ -1,6 +1,6 @@
 # TestRepo
-my name \n
-office \n
+my name 
+office 
 scool
 college
 city
